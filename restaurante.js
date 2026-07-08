@@ -110,6 +110,7 @@ console.log("2 = Onigiris");
 console.log("3 = Ceviche de atún");
 console.log("4 = Spicy camarones");
 
+pedido = []
 
 let numeroElegido = prompt(" -Elija un plato : ");
 
